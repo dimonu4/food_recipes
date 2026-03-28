@@ -1,0 +1,22 @@
+{
+  "name": "food_recipes",
+  "version": "1.0.0",
+  "description": "food recipes and callories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimonu4/food_recipes.git"
+  },
+  "author": "dimka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimonu4/food_recipes/issues"
+  },
+  "homepage": "https://github.com/dimonu4/food_recipes#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
